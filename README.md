@@ -1,5 +1,5 @@
 # Quản lý dữ liệu kiểm thử cho ứng dụng cơ sở dữ liệu
-## 11. Thông tin sinh viên
+## 1. Thông tin sinh viên
 
 * Sinh viên: Ngô Thị Hiền
 * MSV: K225480106014
